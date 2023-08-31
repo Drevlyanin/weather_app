@@ -1,4 +1,14 @@
+# weather_app
 
+<div id="header" align="center">
+  <img src="https://media.tenor.com/Dsu6WHkErQoAAAAi/foekoe-foekoe-gaming.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+<h1>
+ Hello there
+  <img src="https://media.tenor.com/znmQl_Of2AAAAAAi/pepe-jedi-pablojedi.gif" width="50px"/>
+</h1>
+</div>
 
 This is a full-fledged Python and Django application that allows users to obtain information about weather conditions in various cities around the world using the OpenWeatherMap API.
 
