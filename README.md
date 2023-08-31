@@ -18,4 +18,4 @@ To use the application, the user simply inputs the name of a city and the applic
 
 The application provides weather information such as temperature, description in real-time.
 
-
+This application can be easily deployed to a web server or cloud hosting service, making it accessible to users from anywhere with an internet connection.
